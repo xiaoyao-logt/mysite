@@ -1,0 +1,24 @@
+h3.home-content{
+	font-size: 222%;
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+div#container{
+    height: 20em;
+    min-width: 20em;
+    max-width: 30em;
+    margin-left: 5em;
+}
+
+div.hot_data ul{
+    list-style-type: none;
+}
+div.hot-content{
+    width: 30%;
+    float: right;
+}
+div.table{
+    margin-top: 5em;
+    width: 50%;
+    float: left;
